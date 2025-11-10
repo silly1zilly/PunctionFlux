@@ -1,1 +1,1 @@
-this sucks
+first esolang
